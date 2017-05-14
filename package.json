@@ -26,7 +26,7 @@
   "dependencies": {
     "async": "^1.5.2",
     "chokidar": "^1.4.2",
-    "couchdb-compile": "^1.6.3",
+    "couchdb-compile": "wprater/couchdb-compile",
     "couchdb-ensure": "^1.3.1",
     "lodash": "^4.3.0",
     "minimist": "^1.2.0",
